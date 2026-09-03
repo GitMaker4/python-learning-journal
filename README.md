@@ -8,4 +8,7 @@ My Goals for this course:
 Get an A on all assignments, use my knowledge of python and GitHub to socialize with people in computer engineering on and off campus, and build understanding of Python and how I can get better with it to solve problems in the workforce
 
 My first python program:
+
+``` python
 print("Hello World") 
+```
